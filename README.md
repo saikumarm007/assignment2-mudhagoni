@@ -42,6 +42,7 @@
 > - by **Warren Buffet**
 
 ---
+# Code Fencing
 
 >In computer science, a suffix automaton is an efficient data structure for representing the substring index of a given string which allows the storage, processing, and retrieval of compressed information about all its substrings. The suffix automaton of a string {\displaystyle S}S is the smallest directed acyclic graph with a dedicated initial vertex and a set of "final" vertices, such that paths from the initial vertex to final vertices represent the suffixes of the string.
 
