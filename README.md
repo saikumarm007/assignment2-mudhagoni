@@ -23,3 +23,14 @@
 - Money
 
 [AboutMe](C:\Users\s544723\Git Demo\webapps-repos\assignment2-mudhagoni\AboutMe.md)
+
+---
+
+# Food/Drink would like to eat everytime
+| Food/Drink | Location | Price |
+| :---: | :---: | :---: |
+| Biryani | Bawarchi | $12 |
+| Ice Cream | Pista house | $15 |
+| Maggie | BBQ | $5 |
+| Shawarma | Mehfil | $10 |
+| Cakes | SwissCastle | $3 |        
