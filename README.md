@@ -22,7 +22,7 @@
 - Food items
 - Money
 
-[AboutMe](C:\Users\s544723\Git Demo\webapps-repos\assignment2-mudhagoni\AboutMe.md)
+[AboutMe](https://github.com/saikumarm007/assignment2-mudhagoni/blob/main/AboutMe.md)
 
 ---
 
