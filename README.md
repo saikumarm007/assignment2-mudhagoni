@@ -15,3 +15,10 @@
     3. Chicago to Delhi (IGI)
     4. Delhi to Hyderabad (RGI)
     5. Hyerabad to Maldives (MD)
+
+- Electronic gadgets
+- Sheos
+- Clothing
+- Food items
+- Money
+    
