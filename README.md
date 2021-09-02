@@ -81,3 +81,14 @@ void sa_extend(char c) {
 ```
 
 [Source link for code](https://cp-algorithms.com/string/suffix-automaton.html)
+
+---
+
+# Hi there 👋
+- 👨‍🎓 I'm currently pursuing Master's at Northwest Missouri State University.
+- 📚 I'm currently learning Webapps with the help from Dr. Charles Hoot.
+- ❓ Any queries please ping me in Teams
+
+--
+
+[Profile link](https://github.com/saikumarm007)
