@@ -37,6 +37,6 @@
 
 ---
 # Quotations
->*"We simply attempt to be fearful when others are greedy and to be greedy only when others are fearful"*
->*"Price is what you pay. Value is what you get"*
+>*"We simply attempt to be fearful when others are greedy and to be greedy only when others are fearful"* <br/>
+>*"Price is what you pay. Value is what you get"* <br/>
 > - by **Warren Buffet**
