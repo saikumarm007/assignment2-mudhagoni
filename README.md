@@ -34,3 +34,9 @@
 | Maggie | BBQ | $5 |
 | Shawarma | Mehfil | $10 |
 | Cakes | SwissCastle | $3 |        
+
+---
+# Quotations
+>*"We simply attempt to be fearful when others are greedy and to be greedy only when others are fearful"*
+>*"Price is what you pay. Value is what you get"*
+> - by **Warren Buffet**
