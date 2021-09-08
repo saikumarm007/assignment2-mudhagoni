@@ -27,6 +27,9 @@
 ---
 
 # Food/Drink would like to eat everytime
+
+The following table describes different food items that are available in different locations with various prices.
+
 | Food/Drink | Location | Price |
 | :---: | :---: | :---: |
 | Biryani | Bawarchi | $12 |
